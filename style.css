@@ -1,0 +1,24 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: Georgia;
+color:rgb(135, 187, 216);
+background: linear-gradient(rgb(119, 165, 189),rgb(252, 216, 222),rgb(253, 204, 212),green);
+}
+.btn{
+    color: rgb(137, 180, 203);
+    background:linear-gradient(rgb(119, 189, 130),rgb(170, 90, 104),rgb(204, 230, 253),rgb(154, 200, 154));
+} 
+#status{
+    font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px lightsalmon;
+    border-radius: 10px;
+}
